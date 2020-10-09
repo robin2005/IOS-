@@ -1,8 +1,3 @@
-\> 本文由 \[简悦 SimpRead\](http://ksria.com/simpread/) 转码， 原文地址 \[www.jianshu.com\](https://www.jianshu.com/p/7b37f5819573)
-
-[![](https://upload.jianshu.io/users/upload_avatars/2679624/1024e12e-a9f0-4985-ba99-d1ebce8e1d7d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp)](https://www.jianshu.com/u/b53af7c990d8)
-
-0.3722020.06.18 08:50:37 字数 740 阅读 119
 
 引子：
 
@@ -224,16 +219,4 @@ alloc&init 底层调用. png
 
 2、`alloc`方法底层已经完成开辟空间和创建类的实例变量了，`init`是专门为`NSObject`预留出来的，体现出`工厂设计模式`，即`父类没有执行，提供给子类自定义`。
 
-[溪浣双鲤的技术摸爬滚打之路](https://www.jianshu.com/p/3fbecd65faae)
-
-"多学习吧，即使不为文凭；多辛苦吧，只要不卖健康"
-
-还没有人赞赏，支持一下
-
-[![](https://upload.jianshu.io/users/upload_avatars/2679624/1024e12e-a9f0-4985-ba99-d1ebce8e1d7d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/100/h/100/format/webp)](https://www.jianshu.com/u/b53af7c990d8)
-
-[溪浣双鲤](https://www.jianshu.com/u/b53af7c990d8 "溪浣双鲤")那些散碎在笔尖的光阴，寂静欢喜~
-
-总资产 67 (约 4.76 元) 共写了 7.4W 字获得 248 个赞共 123 个粉丝
-
-### 被以下专题收入，发现更多相似内容
+[溪浣双鲤的技术摸爬滚打之路](https://www.jianshu.com/p/3fbecd65faae) 
