@@ -218,5 +218,4 @@ id
 alloc&init 底层调用. png
 
 2、`alloc`方法底层已经完成开辟空间和创建类的实例变量了，`init`是专门为`NSObject`预留出来的，体现出`工厂设计模式`，即`父类没有执行，提供给子类自定义`。
-
-[溪浣双鲤的技术摸爬滚打之路](https://www.jianshu.com/p/3fbecd65faae) 
+ 
